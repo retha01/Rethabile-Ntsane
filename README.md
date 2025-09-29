@@ -1,13 +1,13 @@
 <div align="center">
   
 # Hi, I'm Rethabile Ntsane 👋
-
+<img src="https://i.redd.it/u0jcgaob0w8a1.gif" width="500" />
 </div>
 
 <table align="center">
 <tr>
 <td width="50%" align="center">
-  <img src="https://media1.tenor.com/m/lKwezB5Y-6wAAAAd/hello-kitty-mymelody.gif" width="200" />
+  <img src="https://media1.tenor.com/m/lKwezB5Y-6wAAAAd/hello-kitty-mymelody.gif" width="500" />
   
   ### Aspiring Junior Software Developer
   ### Information Systems Student | CyberTech Enthusiast
@@ -35,7 +35,7 @@
 
 ## About Me
 
-<img align="right" src="https://i.pinimg.com/originals/29/fc/51/29fc5101151a16e9bc60e0cd1b447158.gif" width="300" />
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyajN3N3hjcTgzY3gzYXR6em9tOGpxbXMxM2l0ZzcwZHdpNml2YzNteiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XbJYBCi69nyVOffLIU/200_d.gif" width="300" />
 
 ```python
 profile = {
@@ -49,7 +49,8 @@ profile = {
 }
 ```
 
-Final-year Information Technology student passionate about creating innovative tech solutions. I love working with data, building applications, and solving real-world problems through code.
+Final-year Information Technology student passionate about creating innovative tech solutions.
+I love working with data, building applications, and solving real-world problems through code.
 
 ---
 
